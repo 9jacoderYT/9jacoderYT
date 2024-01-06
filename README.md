@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @9jacoderYT
-- 👀 I’m interested in JavaScript and web3
-- 🌱 I’m currently learning Solidity Programming
-- 💞️ I’m looking to collaborate on Crypto Projects
+- 👀 JavaScript and web3 Developer
+- 💞️ I’m looking to collaborate on Projects
 - 📫 Reach me on INSTAGRAM @9jacoder.tech
 
 <!---
